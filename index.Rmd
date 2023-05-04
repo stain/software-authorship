@@ -32,16 +32,16 @@ This activity focuses on authorship of software (“the software itself”). It 
 
 Contents:
 
-- [Roles in Software](#roles)
 - [Software authorship](#authorship)
+- [Roles in Software](#roles)
 - [Guidelines for software projects](#guidelines)
 - [How to get involved in SORTÆD?](#get-involved)
+
+## Software authorship {#authorship}
 
 ## Roles in software {#roles}
 
 ![Roles in Software](roles.png){width=90%}
-
-## Software authorship {#authorship}
 
 ### Who is an author?
 
@@ -56,10 +56,10 @@ In contrast to authorship of textual research outputs:
 - software authorship is NOT based on approval of software versions to be released or published;
 - software authorship is NOT based on agreeing to be accountable for contributions to the software beyond legal accountability, in ensuring that questions related to the quality and integrity of the software are appropriately investigated and resolved.
 
-All those designated as authors should meet one of the three criteria for authorship, 
+All those designated as _authors_ should meet one of the three criteria for authorship, 
 and all who meet one of the three criteria should be identified as authors.
-Those who do not meet one of the four criteria due to the insubstantiality of their contribution
-should be acknowledged as contributors (see below).
+Those who do not meet one of these criteria due to the insubstantiality of their contribution
+should rather be acknowledged as _contributors_ (see below).
 These authorship criteria are intended to reserve the status of authorship for those who deserve credit.
 
 The responsibility for identifying who meets the authorship criteria lies is part of the governance of the software project.
@@ -87,7 +87,7 @@ Supervision
  : Examples: System administrator, cloud manager
 
  Funding
- : _Acquisition or management of funding for effort and events that sustain the software
+ : _Acquisition or management of funding for effort and events that sustain the software_
  : Examples: Principal Investigator, work package leader
 
  Outreach
